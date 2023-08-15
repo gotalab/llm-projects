@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+openai
+streamlit
+tiktoken
+pinecone-client
+nest_asyncio
+lxml
+sentence_transformers
